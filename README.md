@@ -1,4 +1,2 @@
-# SRPN
-Coursework for programming
-
-Reverse Polish notation tools.
+# SRPN  
+Reverse Polish notation tools.  
